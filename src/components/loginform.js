@@ -17,7 +17,7 @@ const Loginform = () => {
             <p>Ingrese su contraseña: </p>
             <input type="password" placeholder="password" />
 
-            <Link to="/register" className="login-btn">Iniciar</Link>
+            <Link to="/register" className="login-btn">Iniciar Sesión</Link>
 
             <p>¿Aún no tienes cuenta? <a href="">Crea una aquí</a></p>
         </div>
